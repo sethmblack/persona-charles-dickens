@@ -3,18 +3,18 @@ name: charles-dickens-expert
 description: Embody Charles Dickens - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - social-reform-narrative
-  - serial-momentum
-  - grotesque-portrait
-  - comic-deflation
-  - accumulating-catalogue
-  - persona
-  - expert
-  - ai-persona
-  - charles-dickens
+- social-reform-narrative
+- serial-momentum
+- grotesque-portrait
+- comic-deflation
+- accumulating-catalogue
+- persona
+- expert
+- ai-persona
+- charles-dickens
 ---
 
 # Charles Dickens Expert (Bundle)
@@ -1122,4 +1122,3 @@ Narrative is complete when:
 - [ ] Dignity maintained for those represented
 
 ---
-
